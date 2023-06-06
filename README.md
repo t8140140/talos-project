@@ -2,8 +2,8 @@
 Fire detection mobile robot using ros2 and gazebo
 
 ## Folder Structure
-`models` folder contains the respective models that have to be copied under the `.gazebo/models` folder
-`src` folder contains the source code and the launch files for the project
+- `models` folder contains the respective models that have to be copied under the `.gazebo/models` folder
+- `src` folder contains the source code and the launch files for the project
 
 ## Dependencies
 - ROS2 - humble
