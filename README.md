@@ -41,4 +41,5 @@ cd path/to/talos-project/src/yolobot_recognition/scripts
 python ros_recognition_yolo.py
 ```
 
-[![Watch the video](/talos_fire_detection_present.mp4)]
+https://github.com/t8140140/talos-project/assets/15681263/8a96e4f3-48ad-4b51-9b8e-1a91fc2dcaf8
+
